@@ -36,9 +36,7 @@ Pong AI is a simple implementation of the classic Pong game using Python and Pyg
    python train_pong.py
    ```
 
-2. Control the paddle using the following keys:
-   - **Up Arrow**: Move paddle up
-   - **Down Arrow**: Move paddle down
+2. Control the training using the following keys:
    - **S**: Save the neural network weights
    - **L**: Load the neural network weights
 
@@ -58,6 +56,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - Thanks to the creators of Pygame for providing a great library for game development.
 - Special thanks to the machine learning community for the resources and knowledge shared.
-
-## Contact
-For any inquiries or feedback, please reach out to [your-email@example.com].
